@@ -1,0 +1,12 @@
+/* ----------------------------------------- */
+/* Font VULCANIA
+/* ----------------------------------------- */
+
+@font-face {
+  font-family: "BattlesbridgeRegular";
+  src: url("../fonts/eot/BattlesbridgeRegular.eot");
+  src: url("../fonts/eot/BattlesbridgeRegular.eot") format("embedded-opentype"),
+    url("../fonts/woff2/BattlesbridgeRegular.woff2") format("woff2"),
+    url("../fonts/woff/BattlesbridgeRegular.woff") format("woff"),
+    url("../fonts/woff2/BattlesbridgeRegular.ttf") format("truetype");
+}
