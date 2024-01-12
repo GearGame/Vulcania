@@ -2,7 +2,7 @@
   "id": "vulcania",
   "title": "Vulcania",
   "description": "Sistema Base per il Gioco di Ruolo Vulcania",
-  "version": "3.0.0",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
