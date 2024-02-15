@@ -2,7 +2,7 @@
   "id": "vulcania",
   "title": "Vulcania",
   "description": "Sistema Base per il Gioco di Ruolo Vulcania",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -11,7 +11,7 @@
     {
       "name": "Heyrold",
       "discord": "Heyrold#4406"
-  }
+    }
   ],
   "relationships": {
     "requires": [
